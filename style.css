@@ -1,0 +1,12 @@
+.bg-primary {
+	background-color: #21456b!important;
+}
+.text-primary {
+	color: #21456b!important;
+}
+a:not(.nav-link) {
+	color: #21456b!important;
+}
+.list-icons .list-inline-item i:hover {
+	color: #21456b!important;
+}
